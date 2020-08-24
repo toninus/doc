@@ -1,3 +1,5 @@
+참조: https://www.curioustore.com/#!/util/naming
+
 <table data-cellspacing="0" data-border="0">
 <colgroup>
 <col style="width: 20%" />
@@ -6,25 +8,15 @@
 <col style="width: 20%" />
 <col style="width: 20%" />
 </colgroup>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">참조: https://www.curioustore.com/#!/util/naming</td>
-<td style="text-align: left;"><br />
-</td>
-<td style="text-align: left;"><br />
-</td>
-<td style="text-align: left;"><br />
-</td>
-<td style="text-align: left;"><br />
-</td>
+<thead>
+<tr>
+<th style="text-align: left;">한글명</td>
+<th style="text-align: left;">영문명</td>
+<th style="text-align: left;">약어</td>
+<th style="text-align: left;">DATA TYPE</td>
+<th style="text-align: left;">설명</td>
 </tr>
-<tr class="even">
-<td style="text-align: left;">한글명</td>
-<td style="text-align: left;">영문명</td>
-<td style="text-align: left;">약어</td>
-<td style="text-align: left;">DATA TYPE</td>
-<td style="text-align: left;">설명</td>
-</tr>
+</thead>
 <tr class="odd">
 <td style="text-align: left;">이름</td>
 <td style="text-align: left;"><br />
